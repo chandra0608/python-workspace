@@ -1,0 +1,8 @@
+{
+    "dvp": {
+      "importerapi": {
+        "cluster-identifier": "docdb-api-01"
+      },
+      "region": "us-east-1"
+    }
+}
